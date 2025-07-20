@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Csharp_Advanced.Enums
 {
+    #region Question 02:
     internal enum Role
     {
         Admin,
         Manager,
         User
-    }
+    } 
+    #endregion
 }
